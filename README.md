@@ -99,4 +99,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCqfS4FxheVYRkkMJUwfAhawN9pa3TQcJLK/VCRKIpw
 16. Now, ensure that vscode is installed on your mac. go to the extensions on your vscode editor and install **Remote SSH**. Now, a symbol like such- '><' will be displayed on the bottom left corner of your editor screen. Click on it and select Connect to Host and enter `ubuntu@IPv4_address` and hit Enter. (enter password as required)
 17. If you followed everything correctly, your connection to your linux machine should be successfull. Now, you may create folders on your machine(search that on google) and you're good to go! 
 
-Cheers!!
+Cheers!! You're Set!
